@@ -11,8 +11,9 @@ It has a moving snake which you control using your keyboard. It goes and get foo
 - Run main.py file to start playing quiz.
 
 ## Screenshots
-![Screenshot (428)](https://user-images.githubusercontent.com/37615383/234034014-cb9c4d21-ddab-4691-98c4-a561b05413a8.png)
 
+![Screenshot (430)](https://user-images.githubusercontent.com/37615383/234057951-9ec22851-bd29-4f21-9193-67a30ce58ca5.png)
+![Screenshot (428)](https://user-images.githubusercontent.com/37615383/234034014-cb9c4d21-ddab-4691-98c4-a561b05413a8.png)
 
 ## Authors
 
