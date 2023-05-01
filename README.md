@@ -8,7 +8,7 @@ It has a moving snake which you control using your keyboard. It goes and get foo
 
 - Download the code as ZIP.
 - Open the extracted ZIP folder in your IDE.
-- Run main.py file to start playing quiz.
+- Run main.py file to start playing the game.
 
 ## Screenshots
 
