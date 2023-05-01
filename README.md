@@ -12,8 +12,7 @@ It has a moving snake which you control using your keyboard. It goes and get foo
 
 ## Screenshots
 
-![Screenshot (430)](https://user-images.githubusercontent.com/37615383/234057951-9ec22851-bd29-4f21-9193-67a30ce58ca5.png)
-![Screenshot (428)](https://user-images.githubusercontent.com/37615383/234034014-cb9c4d21-ddab-4691-98c4-a561b05413a8.png)
+![Screenshot (457)](https://user-images.githubusercontent.com/37615383/235431516-b6b8ac2b-6586-466d-a06a-9fc2bea2ee4e.png)
 
 ## Authors
 
